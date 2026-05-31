@@ -12,5 +12,5 @@ I'm Fajrul Falah. I'm a Network Enthusiast with experience in building, managing
     🛡️ Security  
     🐧 Linux & Infrastructure
 
-## ## 🤝Let's Handshake!
+## 🤝Let's Handshake!
 ![https://www.instagram.com/lemonkecuttttt/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.youtube.com/@4JULX]( https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
